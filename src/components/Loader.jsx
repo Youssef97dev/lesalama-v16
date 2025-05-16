@@ -1,6 +1,6 @@
 "use client";
 import { useState, useEffect } from "react";
-import { CircleLoader } from "react-spinners";
+import { BounceLoader } from "react-spinners";
 import Hero from "./Hero";
 //import Activities from "./Activities";
 //import ImageScroller from "./ImageScroller";
@@ -40,7 +40,7 @@ const Loader = () => {
         </div>
       ) : (
         <div className="fixed inset-0 z-40 flex items-center justify-center bg-primary">
-          <CircleLoader color="#d7b072" size={100} />
+          <BounceLoader color="#d7b072" size={100} />
         </div>
       )}
     </>

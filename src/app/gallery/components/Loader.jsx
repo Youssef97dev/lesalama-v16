@@ -1,6 +1,6 @@
 "use client";
 import { useState, useEffect } from "react";
-import { CircleLoader } from "react-spinners";
+import { BounceLoader } from "react-spinners";
 import Buttons from "@/components/Buttons";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
@@ -28,7 +28,7 @@ const Loader = () => {
         </div>
       ) : (
         <div className="fixed inset-0 z-40 flex items-center justify-center bg-primary">
-          <CircleLoader color="#d7b072" size={100} />
+          <BounceLoader color="#d7b072" size={100} />
         </div>
       )}
     </>

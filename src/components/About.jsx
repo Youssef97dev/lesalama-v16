@@ -23,7 +23,7 @@ const About = () => {
           className={`object-cover w-full h-full rounded-md md:block hidden`}
         />
         <Image
-          src="https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-vnor/yqpkwsnjmluzl82bsabu"
+          src="https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-vnor/olx3popyo3msqjowhbl5"
           height={1000}
           width={1000}
           alt="le salama restaurant"

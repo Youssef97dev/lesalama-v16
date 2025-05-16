@@ -15,7 +15,7 @@ const Culunary = () => {
     >
       <div className="relative w-full">
         <Image
-          src="/about.jpg"
+          src="https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-V2/dg0ywshnfws41a3p64r2"
           height={1000}
           width={1000}
           alt="le salama restaurant"
@@ -23,7 +23,7 @@ const Culunary = () => {
           className={`object-cover w-full h-full rounded-md md:block hidden`}
         />
         <Image
-          src="https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-vnor/uy7yazm3jwakf8bb34nj"
+          src="https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/salama-vnor/yvbd9e4tc5sgkb5t5ery"
           height={1000}
           width={1000}
           alt="le salama restaurant"
