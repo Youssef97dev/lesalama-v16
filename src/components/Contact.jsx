@@ -22,7 +22,7 @@ const Contact = () => {
           alt="map le salama"
           height={1000}
           width={1000}
-          className="object-cover w-full h-full md:block hidden"
+          className="object-cover w-1/2 h-1/2 md:block hidden"
         />
         <Image
           src="https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/Salama/l2si8ubntyyvkmzpo9vk"
